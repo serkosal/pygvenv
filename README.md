@@ -1,3 +1,6 @@
+# Important note
+It was my self-writed solution which, I've used from september 24, but there was a solution which I dont know already existed at that moment, so it consider to use https://github.com/pypa/pipx. 
+
 # pygvenv
 pygvenv (Python Global Virtual Environments) is usefull when you want to use global-wide pip packages without interfering with system dependencies and packages. 
  It will also help avoid this annoying warning: 
